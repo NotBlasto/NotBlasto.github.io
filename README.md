@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Justin Stewart
+![photo](https://imgur.com/a/cl5mZCc)
+## About Me
+I am a self-motivated student and programmer with a life-long passion for computers and technology. I'm experienced in Python, C++, and Java, with extremely effective communication, writing, time management, and interpersonal skills. I collaborate well with others, thrive in team-oriented environments, and seize any opportunity to learn.
+## My Projects and Resume
+- [Link To My CV](https://ashedu-my.sharepoint.com/:w:/g/personal/justin_stewart_student_uagc_edu/EfUPIPAZuIhDio36aZjD6N0B-GjrK95TFHAE9H33TnlgbA?e=WamYTb)
+- [Link To My Github](https://github.com/NotBlasto)
+- [Link To My Kaggle](https://www.kaggle.com/blastokaggle)
+- [Link To My School Blogs](https://cpt307justinstewart.blogspot.com/)
+- [Link To My Internship Blogs](https://phab.mousepawmedia.com/phame/blog/view/17/)
 
-You can use the [editor on GitHub](https://github.com/NotBlasto/NotBlasto.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NotBlasto/NotBlasto.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Where To Find Me
+I can be found on:
+- [LinkedIn](www.linkedin.com/in/justin-stewart-a0ba0b237)
+- [Handshake](https://app.joinhandshake.com/stu/users/40181005)
+- [Indeed](https://my.indeed.com/resume?hl=en&co=US&from=gnav-messaging--messaging-webapp)
+- I can also be contacted any time at Justin.stewart2222@hotmail.com
