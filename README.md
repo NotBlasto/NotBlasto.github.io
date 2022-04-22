@@ -8,11 +8,10 @@ I am a self-motivated student and programmer with a life-long passion for comput
 - [Github](https://github.com/NotBlasto)
 - [Kaggle](https://www.kaggle.com/blastokaggle/code)
 - [My Blogs](https://cpt307justinstewart.blogspot.com/)
-
-
+- [My CV](https://github.com/NotBlasto/NotBlasto.github.io/files/8544342/Justin.Stewart.Resume.-.Master.2.pdf)
 
 ## Where To Find Me
 - [LinkedIn](https://www.linkedin.com/in/justin-stewart-a0ba0b237/)
 - [Handshake](https://app.joinhandshake.com/stu/users/40181005)
 - [Indeed](https://my.indeed.com/resume?hl=en&co=US&from=gnav-messaging--messaging-webapp)
--  I can be contacted directly at justin.stewart2222@hotmail.com
+-  Contact me directly at justin.stewart2222@hotmail.com
