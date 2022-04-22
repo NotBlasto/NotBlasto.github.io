@@ -8,7 +8,6 @@ I am a self-motivated student and programmer with a life-long passion for comput
 - [Github](https://github.com/NotBlasto)
 - [Kaggle](https://www.kaggle.com/blastokaggle/code)
 - [My Blogs](https://cpt307justinstewart.blogspot.com/)
-- [My CV](https://github.com/NotBlasto/NotBlasto.github.io/files/8544342/Justin.Stewart.Resume.-.Master.2.pdf)
 
 ## Where To Find Me
 - [LinkedIn](https://www.linkedin.com/in/justin-stewart-a0ba0b237/)
