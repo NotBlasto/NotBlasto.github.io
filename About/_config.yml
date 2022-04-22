@@ -1,0 +1,6 @@
+theme: jekyll-theme-midnight 
+title: About Me
+domain: Notblasto.github.io
+url: https://notblasto.github.io/
+permalink: /about/
+layout: page
