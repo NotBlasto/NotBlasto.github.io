@@ -1,6 +1,6 @@
 title: Justin Stewart
 
-![Small_Justin2](https://user-images.githubusercontent.com/95455528/164567947-d6f07e21-6e87-48e5-b603-80b48a924af5.JPG)
+![resume photo2](https://user-images.githubusercontent.com/95455528/164583441-7f178a6f-6a01-4f1a-8ad1-12e510752ad9.jpg)
 
 # About Me
 I am a self-motivated student and programmer with a life-long passion for computers and technology. I'm experienced in Python, C++, and Java, with extremely effective communication, writing, time management, and interpersonal skills. I collaborate well with others, thrive in team-oriented environments, and seize any opportunity to learn.
