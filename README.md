@@ -1,5 +1,3 @@
-title: Justin Stewart
-
 ![resume photo2](https://user-images.githubusercontent.com/95455528/164583441-7f178a6f-6a01-4f1a-8ad1-12e510752ad9.jpg)
 
 # About Me
