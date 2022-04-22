@@ -1,0 +1,12 @@
+layout: page
+title: "About me"
+permalink: /about/
+
+## Who I am
+
+I've always been a passionate and avid lover of computers and video games. My love for computers began around 10 years old when I started using an old leftover computer my parents had laying around to play an exciting new game, Counter Strike Source. I can remember playing for the first time, having only on-board graphics and a slew of missing textures, to quite honest the game was hardly playable, but it didn't matter to me, I had found my passion. As each year went by my passion for computers and games only grew, and before I knew it I was building computers for everyone around me, playing all sorts of games, and connecting with all different types of people around the world. However, as I grew older questions such as "Who am I?" and "What do I want to do?" started to jump into my mind. I knew I wanted to utilize my own unique set of skills to the best of my ability, so I began to think back on all of the wonderful experiences I had gaming and why I had been so drawn to it. Truth be told, if you had asked me to describe myself in one word then, I'd have struggled to give a straight answer. Today, there's no question in my mind that my answer would be analytical. When I spent this time reflecting on my life and all of the things I had been drawn to, I quickly began to realize that not only was my love for every game I'd played directly tied to my ability to analyze it, but that this analytical mindset was the cornerstone of who I am. 
+
+I've always been a "give me all my options before I answer" kind of guy, I'll tell you the end of a series 5 minutes into the first episode which some people hate
+
+## My Code Journey
+Growing up, I knew from the moment I used my first computer that I wanted to work with computers. There was always something about "simple 1's and 0's" somehow making this machine come to life with near-infinite possibility that always instilled a sense of wonder in me. I had just had to know how that happens. This search for my answer, little did I know, would not come for many years. Regardless, my questions about computers, applications, connectivity, and so much more only continued to grow. It wasn't until I found myself beginning my undergraduate degree that I truly would begin to have some of my questions answered. 
