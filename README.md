@@ -3,7 +3,7 @@
 # About Me
 I am a self-motivated student and programmer with a life-long passion for computers and technology. I'm experienced in Python, C++, and Java, with extremely effective communication, writing, time management, and interpersonal skills. I collaborate well with others, thrive in team-oriented environments, and seize any opportunity to learn.
 ## My Projects and CV
-- [My CV](https://drive.google.com/file/d/12qML39rVR0xPOuY9_CB2F9O_AZkAo1QR/view?usp=sharing)
+- [My CV](https://drive.google.com/file/d/1rQeICC2ICLumxAMnzh7gM9Jc5QR7WtYf/view?usp=sharing)
 - [Tableau](https://public.tableau.com/app/profile/justin.stewart3367)
 - [Github](https://github.com/NotBlasto)
 - [Kaggle](https://www.kaggle.com/blastokaggle/code)
